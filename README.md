@@ -1,2 +1,3 @@
 # OS232
-for Operating Systems 2023 CSUI 2023
+
+|| [TARBALL] || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/Alvinzhafif/os232) ||
