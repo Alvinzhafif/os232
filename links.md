@@ -1,7 +1,3 @@
----
-permalink: LINKS/
----
-
 # LINKS
 
 1. [Changing User Name](https://www.youtube.com/watch?v=ee2yz41L_3w)<br>
