@@ -9,3 +9,6 @@
 3. [Cyber Security Basics](https://youtu.be/U_P23SqJaDc)<br>
    this is a 4 hour course on a beginner friendly explanation about cyber security<br>
    this video helped me to understand the basics about cyber security including the basic terminologies and terms.
+4. [Commands for viewing files in linux](https://linuxhandbook.com/view-file-linux/)<br>
+   this link shows commands that can be used for viewing contents of a file
+   this helps me as i tend to forgot the simplest command for the simplest stuffs
