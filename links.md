@@ -6,3 +6,6 @@
 2. [Making Tables and Headers for index.md](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
    this is a website link for making table like display<br>
    this website helped me, because my website does not have the "table-like display" also other stuff including headers etc.
+3. [Cyber Security Basics](https://youtu.be/U_P23SqJaDc)<br>
+   this is a 4 hour course on a beginner friendly explanation about cyber security<br>
+   this video helped me to understand the basics about cyber security including the basic terminologies and terms.
