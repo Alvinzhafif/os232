@@ -13,7 +13,7 @@
    this video helped me to understand the basics about cyber security including the basic terminologies and terms.
    ***
 7. [Commands for viewing files in linux](https://linuxhandbook.com/view-file-linux/)<br>
-   this link shows commands that can be used for viewing contents of a file
+   this link shows commands that can be used for viewing contents of a file<br>
    this helps me as i tend to forgot the simplest command for the simplest stuffs
    ***
 9. [Markdown and guides](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
