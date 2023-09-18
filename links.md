@@ -12,3 +12,6 @@
 4. [Commands for viewing files in linux](https://linuxhandbook.com/view-file-linux/)<br>
    this link shows commands that can be used for viewing contents of a file
    this helps me as i tend to forgot the simplest command for the simplest stuffs
+5. [Markdown and guides](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+   this link gives some tips and guides on Markdowns and how to edit your github page
+   this link helped me to style and improve my `links.md` file
