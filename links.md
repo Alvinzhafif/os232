@@ -28,3 +28,11 @@ permalink: LINKS/
     this link gives shows a command on how to change your user group name<br>
     this helped me as when i change my username the groupname is not changed yet, which caused some difficulties. After trying the command, i now have successfully changed my group name
     <hr>
+7. [The OS book](https://www.os-book.com/OS10/slide-dir/)
+   this is the link to the book that will be used for the operating system course<br>
+   the book itself is in presentation form, making it easier and simpler to learn the materials
+   <hr>
+8. [Main memory in a nutshell](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/8_MainMemory.html)
+   this is a link that provides an explanation on main memory in an OS<br>
+   this link helped me as it provides a more in depth explanation about the main memory chapter in the book, the reference itself is good as it uses the same book for it.
+   <hr>
