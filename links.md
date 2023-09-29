@@ -29,7 +29,8 @@ permalink: LINKS/
    this link helped me to style and improve my `links.md` file
    <hr>
    
-#### 6. [Changing group name](https://superuser.com/questions/404135/rename-users-group-name)<br>
+#### 6. [Changing group name](https://superuser.com/questions/404135/rename-users-group-name)
+<br>
     this link gives shows a command on how to change your user group name<br>
     this helped me as when i change my username the groupname is not changed yet, which caused some difficulties. After trying the command, i now have successfully changed my group name
     <hr>
