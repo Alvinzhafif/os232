@@ -44,3 +44,8 @@ permalink: LINKS/
    this is a link that provides an explanation on main memory in an OS<br>
    this link helped me as it provides a more in depth explanation about the main memory chapter in the book, the reference itself is good as it uses the same book for it.
    <hr>
+   
+#### 9. [Virtual Memory Introduction](https://www.techtarget.com/searchstorage/definition/virtual-memory#:~:text=Virtual%20memory%20is%20a%20common,(RAM)%20to%20disk%20storage.)
+   this is a link that provides a basic intoduction on virtual memory in an OS<br>
+   this link helped me as it provides a general introduction on how virtual memory works and how is it applied in an operating system
+   <hr>
