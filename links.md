@@ -42,10 +42,22 @@ permalink: LINKS/
    
 #### 8. [Main memory in a nutshell](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/8_MainMemory.html)<br>
    this is a link that provides an explanation on main memory in an OS<br>
-   this link helped me as it provides a more in depth explanation about the main memory chapter in the book, the reference itself is good as it uses the same book for it.
+   this link helped me as it provides a more in-depth explanation about the main memory chapter in the book, the reference itself is good as it uses the same book for it.
    <hr>
    
 #### 9. [Virtual Memory Introduction](https://www.techtarget.com/searchstorage/definition/virtual-memory#:~:text=Virtual%20memory%20is%20a%20common,(RAM)%20to%20disk%20storage.)
    this is a link that provides a basic intoduction on virtual memory in an OS<br>
    this link helped me as it provides a general introduction on how virtual memory works and how is it applied in an operating system
    <hr>
+
+#### 10. [An introduction to Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)
+   this is a link that provides a general idea of what a thread and concurrency is<br>
+   this link helped me to prepare for the upcoming quiz, as it covers this week's material
+   <hr>
+
+#### 11. [Harvard University's explanation on memory processes](https://bokcenter.harvard.edu/how-memory-works#:~:text=There%20are%20three%20main%20processes,Encoding.)
+   this is a link that explains what a process is in memory and a general idea of what they are<br>
+   this link helped me to prepare for the upcoming quiz as well, as it is part of this week's material
+   <hr>
+   
+   
