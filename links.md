@@ -59,5 +59,9 @@ permalink: LINKS/
    this is a link that explains what a process is in memory and a general idea of what they are<br>
    this link helped me to prepare for the upcoming quiz as well, as it is part of this week's material
    <hr>
-   
+
+#### 12. [Introduction to Synchronization of a Process](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+   this is a link for a beginner's guide to synchronization<br>
+   this link helped me prepare for the upcoming quiz
+   <hr>
    
