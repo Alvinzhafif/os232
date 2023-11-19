@@ -64,4 +64,10 @@ permalink: LINKS/
    this is a link for a beginner's guide to synchronization<br>
    this link helped me prepare for the upcoming quiz
    <hr>
+
+#### 13. [Introduction to Scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+   this is a link to an introduction of cpu scheduling<br>
+   this helped to clarify any questions i have in terms of general CPU Scheduling, and also helped me to prepare for the quiz
+   <hr>
+   
    
